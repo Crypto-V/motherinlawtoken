@@ -1,10 +1,6 @@
 {
-    "name": "Mother in Law Token",
+    "name": "Mother In Law Token",
     "symbol": "MILT",
-    "uri": "https://raw.githubusercontent.com/Crypto-V/motherinlawtoken/refs/heads/main/token_uri.json",
-    "sellerFeeBasisPoints": 0,
-    "creators": null,
-    "collection": null,
-    "uses": null
-  }
-  
+    "description": "The one thing your Mother-in-Law might actually like! MILT is the quirkiest, most relatable meme token on the blockchain, bringing humor and lightheartedness to the world of crypto. Perfect for those who know the universal truth: you can’t win over a Mother-in-Law, but maybe you can with a token!",
+    "image": "https://raw.githubusercontent.com/Crypto-V/motherinlawtoken/main/MOTHERINLAWTOKEN.png"
+}
